@@ -4,5 +4,5 @@ CREATE TABLE song (
     Artist varchar(100)
 );
 
-INSERT into song (id, Title, Artist) VALUES (1,'Imagine', 'Beatles');
-INSERT into song (id, Title, Artist) VALUES (1,'Girl in Blue', 'Animal Sun');
+INSERT into song (, Title, Artist) VALUES (,'Imagine', 'Beatles');
+INSERT into song (, Title, Artist) VALUES (,'Girl in Blue', 'Animal Sun');
